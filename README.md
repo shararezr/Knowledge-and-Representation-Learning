@@ -1,7 +1,6 @@
 # 🔢 Weighted Model Counting (WMC)
 
-This repository provides an implementation and evaluation of **Weighted Model Counting (WMC)** methods for propositional logic formulas. The project explores both **exact** and **approximate** approaches, and includes formula generation via the **Google Gemini API** to test on diverse cases.
-
+This repository provides an implementation and evaluation of **Weighted Model Counting (WMC)** methods for propositional logic formulas. The project explores both **exact** and **approximate** approaches.
 ---
 
 ## 🎯 Objective
@@ -27,7 +26,6 @@ This repository provides an implementation and evaluation of **Weighted Model Co
 - ✅ Exact WMC via truth table enumeration  
 - ✅ Exact WMC via knowledge compilation (using existing libraries)  
 - ✅ Approximate WMC via SampleSAT  
-- ✅ Integration with Google Gemini API for formula generation  
 - ✅ Performance benchmarking and comparison metrics (accuracy, time)
 
 
